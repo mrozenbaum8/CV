@@ -47,6 +47,12 @@ img{
     color: #258cdb;
 }
 
+.navigation .current{
+    border-width: 1px;
+    border-color: #258cdb;
+    border-bottom: solid;
+}
+
 h1{
     display: flex;
     justify-content: center;
