@@ -39,6 +39,14 @@ img{
     margin-bottom: 40px;
 }
 
+.navigation a{
+    color: gray;
+}
+
+.navigation a:hover{
+    color: #258cdb;
+}
+
 h1{
     display: flex;
     justify-content: center;
