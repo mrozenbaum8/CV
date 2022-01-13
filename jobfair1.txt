@@ -1,0 +1,45 @@
+Thetaray:
+    Junior support engineer: https://www.comeet.com/jobs/thetaray/72.00F/junior-support-engineer/96.F17
+
+Bizzabo: 
+    Front-end engineer: https://www.comeet.com/jobs/bizzabo/A5.000/front-end-engineer/67.71D
+    Product designer: https://www.comeet.com/jobs/bizzabo/A5.000/product-designer/77.712
+    UX researcher: https://www.comeet.com/jobs/bizzabo/A5.000/user-experience-researcher/85.91A
+
+Morphisec:
+    Core team dev student: https://www.comeet.com/jobs/morphisec/65.00C/core-team-developer---student-position/5F.62F
+    Security center team dev student: https://www.comeet.com/jobs/morphisec/65.00C/security-center-developer---student-position/B4.821
+
+Tetavi: 
+     Computer vision engineer: https://careers.tetavi.com/?pagename=careers&comeet_cat=rd&comeet_pos=C4.82C&comeet_all=all&rd
+     Software engineer student: https://careers.tetavi.com/?pagename=careers&comeet_cat=rd&comeet_pos=CD.72B&comeet_all=all&rd
+
+Clinch: 
+    QA Engineer: https://clinch.co/jobs/co/israel/6A.42A/qa-engineer/all/
+
+Tailorbrands:
+    FullStack dev: https://www.tailorbrands.com/careers/full-stack-developer
+    Video creator: https://www.tailorbrands.com/careers/video-creator
+
+Insightec:
+    Learning and content developer: https://insightec.com/job-description/?gh_jid=5473131002&loc=Global
+    Clinical R&D Operations Associate: https://insightec.com/job-description/?gh_jid=5763858002&loc=Global
+    IT Support Specialist: https://insightec.com/job-description/?gh_jid=5807517002&loc=Global
+    Software Automation Engineer (Student position): https://insightec.com/job-description/?gh_jid=5510657002&loc=Global
+    Software Engineer: https://insightec.com/job-description/?gh_jid=5393334002&loc=Global
+    Junior System Engineer: https://insightec.com/job-description/?gh_jid=5631663002&loc=Global
+
+Intuition robotics:
+    Conversation / VUI Designer: https://www.intuitionrobotics.com/careers/position?id=7D.226
+    Junior QA Engineer: https://www.intuitionrobotics.com/careers/position?id=B2.B14
+    Customer Success Representative - Student position: https://www.intuitionrobotics.com/careers/position?id=5E.B18
+
+Taranis:
+    Backend Developer: https://taranis.ag/careers/co/rd/8E.828/backend-developer/all
+    Senior Full-stack Developer (Frontend orientation): https://taranis.ag/careers/co/rd/6D.82B/senior-full-stack-developer-frontend-orientation/all
+
+Ourcrowd:
+    Frontend developer: https://www.comeet.com/jobs/ourcrowd/D3.00A/frontend-developer/DD.725
+    Help Desk and Support Specialist: https://www.comeet.com/jobs/ourcrowd/D3.00A/frontend-developer/1E.722
+    FullStack dev: https://www.comeet.com/jobs/ourcrowd/D3.00A/full-stack-developer/A2.D07
+    
