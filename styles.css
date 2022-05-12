@@ -27,6 +27,11 @@ body{
     border-radius: 50%;
 }
 
+.explanation{
+    text-align: center;
+    
+}
+
 .navigation ul{
     list-style-type: none;
     padding-left: 0;
