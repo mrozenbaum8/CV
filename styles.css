@@ -1,8 +1,6 @@
-/*Moshe's portfolio stylesheet*/
 body{
     background-color: rgb(22, 22, 29);
     color: white;
-    font-family: Lato;
     line-height: 24px;
 }
 
@@ -29,7 +27,7 @@ body{
 
 .explanation{
     text-align: center;
-    
+
 }
 
 .navigation ul{
@@ -86,9 +84,20 @@ a:hover{
     gap: 10px;
     padding: 0;
     margin: 0;
+    list-style-type: none;
 }
 
-.core-skills li{
-    list-style-type: none;
+.accordion-body {
+    color: black;
+}
+
+#skills_h2 {
+    text-align: center;
+}
+
+#video_esek {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
