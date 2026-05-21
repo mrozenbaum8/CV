@@ -12,4 +12,4 @@ I’m available during 9 AM–1 PM EST and am comfortable starting part-time as 
 
 Best,
 Moshe Rozenbaum
-indieport.app/moyshe
+teleport-app.com
